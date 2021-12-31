@@ -33,7 +33,7 @@ def name():
     """
 
     # list of genders
-    genders = ["male", "female"]
+    genders = ["Male", "Female"]
 
     # Randomly picks a gender
     gender = choose(genders)
